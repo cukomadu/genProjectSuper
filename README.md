@@ -9,3 +9,5 @@ Once genProjectSuper is run in the terminal, it creates the following files for 
 3. Basic HTML structure in the index.html file with frameworks like bootstrap, and jQuery
 4. Some base CSS styling for the webpage. And,
 5. A new git repository for the web project for version control
+
+Make genProjectSuper grandiose by cloning this repository - https://github.com/cukomadu/genProjectSuper
